@@ -1,2 +1,3 @@
-# haru.launcher
-A very basic EFT launcher
+# Haru.Launcher
+
+A very basic EFT launcher.
